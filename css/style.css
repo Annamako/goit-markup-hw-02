@@ -213,7 +213,7 @@ body {
 }
 
 .button-portfolio:hover,
-.button-portfolio:active {
+.button-portfolio:focus {
     background: var(--accent-color);
     color: var(--background-color);
     cursor: pointer;
